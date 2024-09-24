@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pycoder028
-- 👀 I’m interested in Full-Stack app Development.
+- 👀 I’m interested in Full-Stack web Development.
 - 🌱 I’m currently learning Backend Technologis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
